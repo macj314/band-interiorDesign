@@ -1,14 +1,15 @@
 .column {
-  width: 300px;
+  float: right;
+  text-align: center;
+  width: 500px;
   background-color: aquamarine;
 }
 
 
 
 img{
-    float: left;
-    height: 100%;
-    width: 75%;
+    height: 30%;
+    width: 30%;
 }
 
 
@@ -39,17 +40,27 @@ img{
 }
 
 .people{
-    align-content: center;
-    width: 40%;
-    height: 25%;
+    float: right;
+   width: 600px;
+   height: 500px;
+   padding: 30px;
+   
 }
 
 
 .header{
     font-family: cursive;
+    background-color: coral;
 }
 
 .city{
     width: 300px;
     height: 300px;
+}
+
+.rockband{
+    width: 600px;
+    height: 500px;
+    padding: 30px;
+    float: right;
 }
