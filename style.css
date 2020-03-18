@@ -1,13 +1,55 @@
 .column {
   width: 300px;
-  float: left;
   background-color: aquamarine;
 }
 
 
 
 img{
+    float: left;
+    height: 100%;
+    width: 75%;
+}
+
+
+
+
+
+.sideBar{
+    float: left;
+    background-image: url(https://themeselection.com/demo/chameleon-admin-template/app-assets/images/backgrounds/04.jpg);
+    
+    width: 300px;
+}
+
+.body{
+    text-align: center;
+    font-size: 50px;
+    background-color: gray;
+ 
+}
+
+.shows{
+    
+    float: left;
+}
+
+.rockband{
     float: right;
-    height: 30%;
-    width: 25%;
+}
+
+.people{
+    align-content: center;
+    width: 40%;
+    height: 25%;
+}
+
+
+.header{
+    font-family: cursive;
+}
+
+.city{
+    width: 300px;
+    height: 300px;
 }
